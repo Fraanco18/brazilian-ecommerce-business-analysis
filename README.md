@@ -143,7 +143,7 @@ Final analytical dataset (`master_sales_clean`) and schema documentation.
 Consolidated Power BI visual report aligned with key business insights.
 
 - `docs/`  
-Executive summary and methodology notes.
+Executive summary, business diagnostic and methodology notes.
 
 ---
 
