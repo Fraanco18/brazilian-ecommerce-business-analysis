@@ -1,4 +1,19 @@
-# 🇧🇷 Brazilian E-Commerce Business Analysis (Olist)
+# Brazilian E-commerce Marketplace — Revenue, Logistics & Customer Strategy
+
+End-to-end business analysis of a large Brazilian e-commerce marketplace using SQL and Power BI.  
+Focused on revenue concentration, logistics trade-offs, category complexity, and customer value fragmentation to support strategic decision-making.
+
+---
+
+## 📌 Project Overview
+This project presents a business-oriented analysis of a Brazilian e-commerce marketplace using the Brazilian E-Commerce Public Dataset by Olist.
+
+
+End-to-end business analysis of a large Brazilian e-commerce marketplace using SQL and Power BI.  
+Focused on revenue concentration, logistics trade-offs, category complexity, and customer value fragmentation to support strategic decision-making.
+
+...
+
 
 ## 📌 Project Overview
 
