@@ -6,34 +6,13 @@ Focused on revenue concentration, logistics trade-offs, category complexity, and
 ---
 
 ## 📌 Project Overview
-This project presents a business-oriented analysis of a Brazilian e-commerce marketplace using the Brazilian E-Commerce Public Dataset by Olist.
 
-
-End-to-end business analysis of a large Brazilian e-commerce marketplace using SQL and Power BI.  
-Focused on revenue concentration, logistics trade-offs, category complexity, and customer value fragmentation to support strategic decision-making.
-
-...
-
-
-## 📌 Project Overview
-
-This project presents a business-oriented analysis of a Brazilian e-commerce marketplace using the **Brazilian E-Commerce Public Dataset by Olist**.
-
-The analysis focuses on understanding how revenue is generated, how logistics performance scales geographically, and whether customer loyalty represents a sustainable growth driver.
-
-All insights are derived using SQL and supported by data visualizations, simulating a real-world analytical delivery for business stakeholders.
+This project presents a business-oriented analysis of a large Brazilian e-commerce marketplace using the Brazilian E-Commerce Public Dataset by Olist. The analysis focuses on revenue distribution, logistics performance, category dynamics, and customer value patterns to support strategic decision-making.
 
 ---
 
-## 🔍 Analytical Framework
-
-This project follows a **business-first analytical approach**.
-
-Key business questions are defined upfront based on common e-commerce decision-making challenges (growth, logistics, and customer value).  
-Each question is then translated into structured SQL analysis, allowing insights to emerge directly from the data.
-
-Business questions serve as **analytical entry points**.  
-Final insights reflect the **strategic implications** of their answers.
+## 🎯 Business Problem
+The marketplace operates at national scale, but revenue growth may come with hidden trade-offs in logistics performance, category complexity, and customer value distribution. The key challenge is identifying where revenue translates into sustainable and operationally efficient growth.
 
 ---
 
@@ -119,6 +98,18 @@ Based on the insights derived from the analysis, the following actions are recom
 
 ---
 
+## 🔍 Analytical Framework
+
+This project follows a **business-first analytical approach**.
+
+Key business questions are defined upfront based on common e-commerce decision-making challenges (growth, logistics, and customer value).  
+Each question is then translated into structured SQL analysis, allowing insights to emerge directly from the data.
+
+Business questions serve as **analytical entry points**.  
+Final insights reflect the **strategic implications** of their answers.
+
+---
+
 ## 📊 Data Availability
 
 This project is built using the **Brazilian E-Commerce Public Dataset by Olist**.
@@ -166,7 +157,6 @@ Executive summary, business diagnostic and methodology notes.
 
 **Franco Palomeque**  
 Data Analyst — SQL | Business & Product Analytics
-
 
 ---
 
